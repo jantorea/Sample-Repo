@@ -14,5 +14,4 @@ def greet(who):
 
 
 r = requests.get("https://vg.no")
-print(r
-
+print(r)
